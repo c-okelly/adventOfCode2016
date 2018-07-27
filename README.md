@@ -2,4 +2,4 @@
 
 Solutions to http://adventofcode.com/2016
 
-Mainly in Python
+Python

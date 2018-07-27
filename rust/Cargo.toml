@@ -1,0 +1,6 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["c-okelly <conor.okelly@murex.com>"]
+
+[dependencies]
