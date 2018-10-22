@@ -3,6 +3,13 @@ use std::fs::File;
 use std::io::prelude::*;
 
 fn main() {
+
+
+   enum Direction {
+       up = 1,
+       down = 3,
+   }
+
     println!("Hello, world!");
 
     let mut filename = "../txt/1.txt"; 
